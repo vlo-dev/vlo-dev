@@ -13,7 +13,7 @@
 <br>
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-### Computer :> Programs && Tools
+### Computer : Programs & Tools
 <br>
 <h4> Languages </h4>
 <span> 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+<h4> ID </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
